@@ -1,0 +1,29 @@
+# Build / Binary Artifacts
+*.img
+*.bin
+*.iso
+*.tgz
+*.zip
+*.tar
+*.apk
+*.jar
+*.idsig
+
+# Tooling Cache & Intermediate
+build/
+out/
+dist/
+.gradle/
+*.class
+*.dex
+*.smali
+
+# OS / IDE
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
